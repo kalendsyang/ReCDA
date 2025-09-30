@@ -1,6 +1,7 @@
 # ReCDA
 
-Code for paper [ReCDA: Concept Drift Adaptation with Representation Enhancement for Network Intrusion Detection](https://dl.acm.org/doi/10.1145/3637528.3672007).
+Code for paper 
+[ReCDA: Concept Drift Adaptation with Representation Enhancement for Network Intrusion Detection](https://dl.acm.org/doi/10.1145/3637528.3672007).
 
 <div align="center">
 <img src="fig/overview.png" alt="overview" width="80%"/><br>
@@ -33,5 +34,5 @@ numpages = {11},
   journal={IEEE Transactions on Dependable and Secure Computing}, 
   title={Self-Supervised Adaptation Method to Concept Drift for Network Intrusion Detection}, 
   year={2025},
-  }
+}
 ```
